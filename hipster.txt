@@ -1,1 +1,2 @@
-line one 
+line one
+Line two without stage 
